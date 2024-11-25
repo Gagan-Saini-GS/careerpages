@@ -126,6 +126,76 @@ const companies = [
     link: "https://www.flipkartcareers.com/#!/joblist",
   },
   { id: 35, name: "Mobikwik", link: "https://www.mobikwik.com/careers" },
+  {
+    id: 36,
+    name: "Samsung",
+    link: "https://sec.wd3.myworkdayjobs.com/Samsung_Careers",
+  },
+  {
+    id: 37,
+    name: "Tata 1mg",
+    link: "https://1mg.darwinbox.in/ms/candidate/careers",
+  },
+  {
+    id: 38,
+    name: "Urban Company",
+    link: "https://careers.urbancompany.com/jobs",
+  },
+  {
+    id: 39,
+    name: "Paytm",
+    link: "https://jobs.lever.co/paytm?department=Technology",
+  },
+  {
+    id: 40,
+    name: "Slice",
+    link: "https://slice.careers/",
+  },
+  {
+    id: 41,
+    name: "Zepto",
+    link: "https://zeptonow.openings.co/#!/#openpositions",
+  },
+  {
+    id: 42,
+    name: "Nykaa",
+    link: "https://www.nykaafashion.com/lp/careers",
+  },
+  {
+    id: 43,
+    name: "PhonePe",
+    link: "https://www.phonepe.com/careers/job-openings/",
+  },
+  {
+    id: 44,
+    name: "Lenskart",
+    link: "https://www.lenskart.com/wearehiring",
+  },
+  {
+    id: 45,
+    name: "Shaadi.com",
+    link: "https://openroles.peopleinteractive.in/",
+  },
+  {
+    id: 46,
+    name: "Reliance",
+    link: "https://careers.ril.com/rilcareers/frmJobSearch.aspx?func=LzxgZSUXvEw=&loc=/wASbQn4xyQ=&expreq=/wASbQn4xyQ=&flag=/wASbQn4xyQ=",
+  },
+  {
+    id: 47,
+    name: "Jio",
+    link: "https://careers.jio.com/frmfuncwisejob.aspx?func=09Bqkj0vwzk=&desc=tBOU2f2ubJIKJJaEorlljoC0jBhJb9cLpWXiiP5HyBU=&flag=/wASbQn4xyQ=",
+  },
+  {
+    id: 48,
+    name: "Airtel",
+    link: "https://www.airtel.lk/careers/",
+  },
+  {
+    id: 49,
+    name: "Meesho",
+    link: "https://www.meesho.io/jobs?d=engineering",
+  },
 ];
 
 const container = document.querySelector(".container");
